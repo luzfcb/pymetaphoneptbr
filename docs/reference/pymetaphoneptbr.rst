@@ -1,0 +1,5 @@
+pymetaphoneptbr
+=============================
+
+.. automodule:: pymetaphoneptbr
+    :members:
